@@ -151,5 +151,13 @@ One would use such a hosting service typically for hosting a PHP, Python or Node
 
 ### Digital Ocean
 
+<useful-links>
+<useful-links-section title="Tutorials">
+
+* [Deploy a VueJS App with DigitalOcean] (https://medium.com/@Web_Bailey/deploy-a-vuejs-app-with-digitalocean-fd6e7af07e40)
+
+</useful-links-section>
+</useful-links>
+
 ::: contribute
 :::
